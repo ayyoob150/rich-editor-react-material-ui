@@ -1,0 +1,103 @@
+
+a{
+  text-decoration: none;
+}
+#setActive{
+  color: #f9592a;
+  border-bottom: solid 4px #f9592a;
+  padding: 0 6px;
+  font-size: 13px;
+}
+input{
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(238, 247, 255);
+}
+
+#deleteIcon{
+background: #f2f2f272;
+}
+
+
+#color0{
+  color: #efb700;
+  background-color: #efb70028;
+  border-color: #efb700;
+}
+
+#color1{
+  color: #00d192;
+  background-color: #00d19228;
+  border-color: #00d192;
+}
+
+#color2{
+  color: #d83600;
+  background-color: #d8360028;
+  border-color: #d83600;
+}
+
+#color3{
+  color: #efb700;
+  background-color: #efb70028;
+  border-color: #efb700;
+}
+
+#color4{
+  color: #00d192;
+  background-color: #00d19228;
+  border-color: #00d192;
+}
+
+#color5{
+  color: #d000ff;
+  background-color: #d000ff28;
+  border-color: #d000ff;
+}
+
+#color6{
+  color: #8ace00;
+  background-color: #8ace0028;
+  border-color: #8ace00;
+}
+
+#color7{
+  color: #efb700;
+  background-color: #efb70028;
+  border-color: #efb700;
+}
+
+#color8{
+  color: #d000ff;
+  background-color: #d000ff28;
+  border-color: #d000ff;
+}
+
+#color9{
+  color: #6ba100;
+  background-color: #6ba10028;
+  border-color: #6ba100;
+}
+
+#color10{
+  color: #00d192;
+  background-color: #00d19228;
+  border-color: #00d192;
+}
+
+.jodit-status-bar{
+  visibility: hidden;
+  height: 0;
+}
+
+p{
+  font-size: 14px;
+  font-weight: 500;
+}
+img{
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+
